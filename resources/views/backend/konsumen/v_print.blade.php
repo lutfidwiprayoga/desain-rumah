@@ -1,0 +1,1 @@
+<img src="{{public_path ('final_desain/'. $data['print'])}}" width="700px" height="700px">
